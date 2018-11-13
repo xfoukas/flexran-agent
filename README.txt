@@ -1,3 +1,11 @@
+Agent part of the FlexRAN SD-RAN platform based on OpenAirInterface. This is the original version of the code as it appeared in the paper published at ACM CoNEXT 2016:
+
+https://dl.acm.org/citation.cfm?id=2999599
+
+For a newer version of the FlexRAN code please check the Mosaic5G project:
+
+http://mosaic-5g.io/flexran/
+
 OpenAirInterface is under OpenAirInterface Software Alliance license.
 ├── http://www.openairinterface.org/?page_id=101
 ├── http://www.openairinterface.org/?page_id=698
